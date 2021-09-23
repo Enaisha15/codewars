@@ -1,0 +1,2 @@
+let number = 123;
+let a = number.toString();
