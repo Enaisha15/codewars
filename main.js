@@ -1,7 +1,5 @@
-function even_or_odd(number) {
-  if (number%2 == 0) {
-    return "Even";
-  } else {
-    return "Odd";
-  }
-}
+var laLigaGoals = 43
+var championsLeagueGoals = 10
+var copaDelReyGoals = 5
+
+var totalGoals = 58
